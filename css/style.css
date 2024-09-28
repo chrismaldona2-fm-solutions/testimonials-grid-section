@@ -22,12 +22,12 @@ p {
     --white: #f8ffff;
 
 
-    --card-title-font: 600 1.65rem/125% 'Barlow Semi Condensed';
-    --card-description-font: 400 1.1rem/135% 'Barlow Semi Condensed';
+    --card-title-font: 600 1.65rem/125% 'Barlow Semi Condensed', sans-serif;
+    --card-description-font: 400 1.1rem/135% 'Barlow Semi Condensed', sans-serif;
 
 
-    --author-name-font: 500 1.125rem/100% 'Barlow Semi Condensed';
-    --author-verification-font: 400 .95rem/100% 'Barlow Semi Condensed';
+    --author-name-font: 500 1.125rem/100% 'Barlow Semi Condensed', sans-serif;
+    --author-verification-font: 400 .95rem/100% 'Barlow Semi Condensed', sans-serif;
 }
 
 .body {
